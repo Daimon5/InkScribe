@@ -1,2 +1,2 @@
 # InkScribe
-Text to composite sketchs
+Capstone
